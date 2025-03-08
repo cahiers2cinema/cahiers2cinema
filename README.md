@@ -12,7 +12,7 @@ Looking to collaborate on subtitle-related projects, and helpful life-organizing
 Skills
 - ⚡ Experienced in React.Js, vanilla JS, Python, Firestore, XML parsing; life organizing queue/budgeting/weight apps
 - Here is my Movie Organizer app, which I use daily. I recommend add to homescreen for best use on a phone
-- https://themovieorganizer.netlify.app/
+  - https://themovieorganizer.netlify.app/
 <!--
 **cahiers2cinema/cahiers2cinema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
