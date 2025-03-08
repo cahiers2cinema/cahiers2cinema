@@ -5,7 +5,7 @@ Looking to collaborate on subtitle-related projects, and helpful life-organizing
   - life/movie organizer apps where user controls their queues
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on any subtitle TTML, XML, or general XML parsing/conversions, AI outside-the-box use cases
-- 🤔 I’m looking for help with growing my coding connections and friends, learning React Native
+- 🤔 I’m looking for help learning React Native & growing my coding connections and friends
 - 💬 Ask me about why I'm called cahiers2cinema!
 - 📫 How to reach me: https://github.com/cahiers2cinema
 - ⚡ Fun fact: My favorite filmmaker is Jean-Luc Godard, but my favorite movie is Napoléon by Abel Gance.
