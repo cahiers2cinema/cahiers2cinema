@@ -3,6 +3,7 @@ Looking to collaborate on subtitle-related projects, and helpful life-organizing
 - 🔭 I’m currently working on
   - subtitle XML optimizations
   - life/movie organizer apps where user controls their queues
+  - React Web sites and SPAs
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on any subtitle TTML, XML, or general XML parsing/conversions, AI outside-the-box use cases
 - 🤔 I’m looking for help learning React Native & growing my coding connections and friends
