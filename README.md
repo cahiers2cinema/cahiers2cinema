@@ -1,6 +1,8 @@
 ## Hi there, I'm Andrew! 👋
 Looking to collaborate on subtitle-related projects, and helpful life-organizing apps—feel free to reach out!
-- 🔭 I’m currently working on subtitle XML optimizations and life/movie organizer apps where user controls their queues
+- 🔭 I’m currently working on
+  - subtitle XML optimizations
+  - life/movie organizer apps where user controls their queues
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on any subtitle TTML, XML, or general XML parsing/conversions, AI outside-the-box use cases
 - 🤔 I’m looking for help with growing my coding connections and friends, learning React Native
